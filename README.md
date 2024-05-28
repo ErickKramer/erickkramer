@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- ⚡ I’m currently working at [Rethink Robotics GmbH](https://www.rethinkrobotics.com/) as a Software Developer
+- ⚡ I’m currently working at [Rethink Robotics GmbH](https://www.rethinkrobotics.com/) as a Senior Software Developer
 - ⚡ I’m looking to collaborate on projects to develop robotics behaviors
-- ⚡ I’m interested on evolutionary robotics, machine learning, and writing clean code 
-- ⚡ How to reach me: erickkramer@gmail.com
+- ⚡ I’m interested on evolutionary robotics, machine learning
+- ⚡ I work with Neovim (btw)
+- 📫 How to reach me: erickkramer@gmail.com
